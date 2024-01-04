@@ -9,3 +9,7 @@ php artisan migrate
 php artisan optimize:clear
 php artisan serve
 
+#URL for file upload
+
+http://127.0.0.1:8000/upload
+
